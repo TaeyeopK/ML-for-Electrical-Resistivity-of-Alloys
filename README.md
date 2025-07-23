@@ -1,1 +1,1 @@
-# ML-for-Electrical-resistivity-of-alloys
+# ML-for-Electrical-Resistivity-of-Alloys
